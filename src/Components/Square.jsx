@@ -13,10 +13,3 @@ const Square = ({ value, onClick, isWinningSquare }) => {
   );
 };
 export default Square;
-
-//   console.log(props.value);
-//   return <div>{value}</div>;
-//   console.log(children);
-/* 
-      <h5>render below:</h5>
-      <div>{children}</div> */

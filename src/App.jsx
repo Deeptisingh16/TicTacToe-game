@@ -85,34 +85,3 @@ function App() {
 }
 
 export default App;
-
-// import { useState } from 'react';
-/* <h1>Title</h1>
-      <img src="/vite.svg" alt="none" />
-      <Square value="5">
-        <div>skdjnfsejkvns</div>
-        <h5>3gdv</h5>
-      </Square>
-      <Square value="5" />
-      <Square value="5" />
-      <Square value="5" /> */
-// const [counter, setCounter] = useState(1);
-
-// const onBtnClick = () => {
-//   setCounter(currentCounter => {
-//     return currentCounter + 1;
-//   });
-// };
-
-/* <button onClick={onBtnClick}>Click me please</button> */
-/* <div>{counter}</div> */
-
-// setHistory(currentSquares => {
-//   return currentSquares.map((squareValue, position) => {
-//     if (clickedPosition === position) {
-//       return isXNext ? 'X' : 'O';
-//     }
-//     return squareValue;
-//   });
-// });
-// setIsXNext(currentIsXNext => !currentIsXNext);
